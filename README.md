@@ -22,3 +22,6 @@ Rondom-mr_eo
 ls
 
 python Mr_EO.py
+
+Your channel 
+https://youtube.com/@arewacyberwarriors
